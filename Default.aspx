@@ -1,4 +1,4 @@
-<!--A Design by W3layouts
+﻿<!--A Design by W3layouts
 Author: W3layout
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -7,46 +7,65 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
     <head>
-	<meta http-equiv="cache-control" content="max-age=0" />
-	<meta http-equiv="cache-control" content="no-cache" />
-	<meta http-equiv="expires" content="0" />
-	<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+	<meta http-equiv="cache-control" content="max-age=30" />
+	<meta http-equiv="cache-control" content="public" />
+	<meta http-equiv="expires" content="30" />
+	<meta http-equiv="expires" content="Thu, 01 Jun 2017 1:00:00 GMT" />
 	<meta http-equiv="pragma" content="no-cache" />
-
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="N-Air Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+	<meta charset utf="8">
     <title>N-Air a E-commerce category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="N-Air Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-		<meta charset utf="8">
-		<!--fonts-->
-		<link href='http://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/simplecartjs/3.0.5/simplecart.min.js" defer></script>
+		<script src="//code.jquery.com/jquery-2.2.4.min.js" defer></script>
+    	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" defer></script>
 
-		<!--fonts-->
-		<!--bootstrap-->
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-		<!--coustom css-->
-			<link href="css/style.min.css" rel="stylesheet" type="text/css"/>
-        <!--shop-kart-js-->
-        <script defer src="js/simpleCart.min.js"></script>
-
-		<!--default-js-->
-			<script defer
-src="https://code.jquery.com/jquery-2.2.4.min.js"
-integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-crossorigin="anonymous"></script>
-		<!--bootstrap-js-->
-			<script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<!--script-->
     </head>
     <body>
+
+    <noscript id="deferred-styles">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="css/style.min.css" type="text/css" />
+    </noscript>
+       
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', function(){
+            var styles = ['//fonts.googleapis.com/css?family=Fredoka+One',
+                            '//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',
+                            'css/style.min.css'
+                            ];
+
+                 styles.forEach(function(style){
+                            var linkElement = document.createElement('link');
+                                    linkElement.rel = 'stylesheet';
+                                    linkElement.href = style;
+                                    linkElement.type = 'text/css';
+                                    var containerElement = document.getElementsByTagName('head')[0];
+                                    containerElement.appendChild(linkElement);
+                            })
+                }, false);
+        </script>
+
         <div class="header">
             <div class="container">
                 <div class="header-top">
                     <div class="logo">
-                        <a href="/">N-AIR</a>
+                        <a href="index.html">N-AIR</a>
                     </div>
-
+                    <div class="login-bars">
+                        <a class="btn btn-default log-bar" href="register.html" role="button">Sign up</a>
+                        <a class="btn btn-default log-bar" href="signup.html" role="button">Login</a>
+                        <div class="cart box_1">
+                            <a href="checkout.html">
+                            <h3>
+                                <div class="total">
+<span class="simpleCart_total"></span>(<span id="simpleCart_quantity" class="simpleCart_quantity"></span>)</div></h3>
+                            </a>
+                            <p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
+                            <div class="clearfix"> </div>
+                        </div>
+                    </div>
         <div class="clearfix"></div>
                 </div>
                 <!---menu-----bar--->
@@ -93,6 +112,12 @@ crossorigin="anonymous"></script>
                                                     <li><a href="products.html">Casual</a></li>
                                                 </ul>
                                             </div>
+                                            <div class="col-sm-4 menu-img-pad">
+                        <a href="#"></a>
+                                            </div>
+                                            <div class="col-sm-4 menu-img-pad">
+                        <a href="#"></a>
+                                            </div>
                                         </div>
                                     </ul>
                                 </li>
@@ -110,6 +135,9 @@ crossorigin="anonymous"></script>
                                                     <li class="divider"></li>
                                                     <li><a href="products.html">Gym</a></li>
                                                 </ul>
+                                            </div>
+                                            <div class="col-sm-6">
+                        <a href="#"></a>
                                             </div>
                                         </div>
                                     </ul>
@@ -372,6 +400,15 @@ crossorigin="anonymous"></script>
                         <li><a href="contact.html">Sitemap</a></li>
                     </ul>
                 </div>
+                <div class="col-md-6 re-ft-grd">
+                    <h3>Social</h3>
+                    <ul class="social">
+                        <li><a href="#" class="fb">facebook</a></li>
+                        <li><a href="#" class="twt">twitter</a></li>
+                        <li><a href="#" class="gpls">g+ plus</a></li>
+                        <div class="clearfix"></div>
+                    </ul>
+                </div>
                 <div class="col-md-2 re-ft-grd">
                     <div class="bt-logo">
                         <div class="logo">
@@ -387,5 +424,16 @@ crossorigin="anonymous"></script>
                 </div>
             </div>
         </div>
+
+
+        <style type="text/css">
+        @font-face {
+          font-family: 'Fredoka One';
+          font-style: normal;
+          font-weight: 400;
+          src: local('Fredoka One'), local('FredokaOne-Regular'), url(//fonts.gstatic.com/s/fredokaone/v4/SL0aFUFfkFMMdariYQ3_YbrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+        }
+        </style>
+
     </body>
 </html>
