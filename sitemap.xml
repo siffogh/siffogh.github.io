@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://chronoblog-hacker.now.sh/tags/article/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/javascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/postgres/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/node/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/eslint/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/reasonml/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/accessibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/functional-programming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/typescript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/pwa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/preact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/socket-io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/hapi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/rxjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/styled-components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/how-to-create-manage-a-postgres-database-in-node-js-from-scratch-tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/learn-eslint-concepts-not-rules-part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/how-to-make-your-own-splitpane-react-component-with-0-dependencies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/reasonml-for-production-react-apps-part-4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/reasonml-for-production-react-apps-part-3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/reasonml-for-production-react-apps-part-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/reasonml-for-production-react-apps-part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/how-to-create-an-accessible-react-modal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/a-basic-introduction-to-functional-programming-principles-in-reason-ml/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/yeah-hooks-are-good-but-have-you-tried-faster-react-components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/reasonml-vs-typescript-comparing-their-type-systems/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/how-to-get-a-taste-of-reason-ml-by-building-something-useful/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/how-to-make-and-test-your-own-react-drag-and-drop-list-with-0-dependencies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/java-scripts-maps-for-better-performance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/how-to-create-a-pwa-game-using-preact-in-5-steps-tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/match-gage-multiplayer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/eslint-plugin-better-styled-components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/bpmnlint/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/consome/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/camunda-external-task-client-js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/links/mac-calculator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/experience/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/posts-and-articles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog-hacker.now.sh/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
